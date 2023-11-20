@@ -1,0 +1,15 @@
+/Users/accfm/Desktop/539midterm/dhaes/bin/Debug/net6.0/dhaes
+/Users/accfm/Desktop/539midterm/dhaes/bin/Debug/net6.0/dhaes.deps.json
+/Users/accfm/Desktop/539midterm/dhaes/bin/Debug/net6.0/dhaes.runtimeconfig.json
+/Users/accfm/Desktop/539midterm/dhaes/bin/Debug/net6.0/dhaes.dll
+/Users/accfm/Desktop/539midterm/dhaes/bin/Debug/net6.0/dhaes.pdb
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.csproj.AssemblyReference.cache
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.AssemblyInfoInputs.cache
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.AssemblyInfo.cs
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.csproj.CoreCompileInputs.cache
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.dll
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/refint/dhaes.dll
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.pdb
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/dhaes.genruntimeconfig.cache
+/Users/accfm/Desktop/539midterm/dhaes/obj/Debug/net6.0/ref/dhaes.dll
